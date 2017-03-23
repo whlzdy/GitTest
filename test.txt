@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello 123
 456 789
+=======
+hello 456
+>>>>>>> change_site
